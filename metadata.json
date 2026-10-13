@@ -1,0 +1,6 @@
+{
+  "name": "일인일역 교실 협업 대시보드",
+  "description": "구글 스프레드시트와 실시간 연동되는 초·중·고 학급 일인일역 수행 관리, 실시간 체크 및 푸시 알림 웹 플랫폼 (Pure Vanilla HTML/CSS/JS)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
